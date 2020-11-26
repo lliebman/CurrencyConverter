@@ -1,0 +1,10 @@
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\bin\Debug\CurrencyProj.exe.config
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\bin\Debug\CurrencyProj.exe
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\bin\Debug\CurrencyProj.pdb
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\obj\Debug\CurrencyProj.csprojAssemblyReference.cache
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\obj\Debug\CurrencyProj.Properties.Resources.resources
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\obj\Debug\CurrencyProj.csproj.GenerateResource.cache
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\obj\Debug\CurrencyProj.csproj.CoreCompileInputs.cache
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\obj\Debug\CurrencyProj.exe
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\obj\Debug\CurrencyProj.pdb
+C:\Users\lilli\source\repos\CurrencyProj\CurrencyProj\obj\Debug\CurrencyProj.CurrencyConverterForm.resources
